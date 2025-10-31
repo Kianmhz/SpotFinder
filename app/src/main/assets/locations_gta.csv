@@ -1,0 +1,101 @@
+id,address,latitude,longitude
+1,Downtown Toronto Area #1,43.655431,-79.3927
+2,Downtown Toronto Area #2,43.6496,-79.388736
+3,Downtown Toronto Area #3,43.656984,-79.379666
+4,Downtown Toronto Area #4,43.659475,-79.391461
+5,Downtown Toronto Area #5,43.651951,-79.392604
+6,Downtown Toronto Area #6,43.648698,-79.383093
+7,Downtown Toronto Area #7,43.645625,-79.389223
+8,Scarborough Area #1,43.775498,-79.256101
+9,Scarborough Area #2,43.768627,-79.255215
+10,Scarborough Area #3,43.778051,-79.26687
+11,Scarborough Area #4,43.777993,-79.253037
+12,Scarborough Area #5,43.770544,-79.26389
+13,Scarborough Area #6,43.780415,-79.260268
+14,Scarborough Area #7,43.766584,-79.265066
+15,North York Area #1,43.76706,-79.409025
+16,North York Area #2,43.766414,-79.406505
+17,North York Area #3,43.76208,-79.401638
+18,North York Area #4,43.759557,-79.410059
+19,North York Area #5,43.76677,-79.40873
+20,North York Area #6,43.767287,-79.409553
+21,North York Area #7,43.764773,-79.420184
+22,Etobicoke Area #1,43.649646,-79.571212
+23,Etobicoke Area #2,43.647277,-79.572344
+24,Etobicoke Area #3,43.647616,-79.571441
+25,Etobicoke Area #4,43.656171,-79.569703
+26,Etobicoke Area #5,43.651923,-79.57281
+27,Etobicoke Area #6,43.650272,-79.558267
+28,Etobicoke Area #7,43.656369,-79.564817
+29,Mississauga Area #1,43.583738,-79.639417
+30,Mississauga Area #2,43.583614,-79.646411
+31,Mississauga Area #3,43.596832,-79.6412
+32,Mississauga Area #4,43.589911,-79.640308
+33,Mississauga Area #5,43.594486,-79.63848
+34,Mississauga Area #6,43.584665,-79.653358
+35,Mississauga Area #7,43.586047,-79.648645
+36,Brampton Area #1,43.726876,-79.753542
+37,Brampton Area #2,43.737522,-79.766106
+38,Brampton Area #3,43.733987,-79.764487
+39,Brampton Area #4,43.738133,-79.763223
+40,Brampton Area #5,43.727738,-79.767467
+41,Brampton Area #6,43.732482,-79.767145
+42,Brampton Area #7,43.732853,-79.754444
+43,Markham Area #1,43.85449,-79.342614
+44,Markham Area #2,43.864061,-79.336809
+45,Markham Area #3,43.849555,-79.346058
+46,Markham Area #4,43.849854,-79.334451
+47,Markham Area #5,43.860773,-79.338557
+48,Markham Area #6,43.849116,-79.339368
+49,Markham Area #7,43.864038,-79.336418
+50,Richmond Hill Area #1,43.890337,-79.433084
+51,Richmond Hill Area #2,43.874984,-79.435886
+52,Richmond Hill Area #3,43.885707,-79.439561
+53,Richmond Hill Area #4,43.879069,-79.437481
+54,Richmond Hill Area #5,43.876585,-79.441605
+55,Richmond Hill Area #6,43.88206,-79.431224
+56,Richmond Hill Area #7,43.888814,-79.445032
+57,Vaughan Area #1,43.837209,-79.514427
+58,Vaughan Area #2,43.843802,-79.50059
+59,Vaughan Area #3,43.833975,-79.505221
+60,Vaughan Area #4,43.838944,-79.514943
+61,Vaughan Area #5,43.8414,-79.507212
+62,Vaughan Area #6,43.841658,-79.507393
+63,Vaughan Area #7,43.829209,-79.511517
+64,Pickering Area #1,43.827612,-79.080418
+65,Pickering Area #2,43.84136,-79.082367
+66,Pickering Area #3,43.83222,-79.097841
+67,Pickering Area #4,43.841348,-79.080061
+68,Pickering Area #5,43.82867,-79.08928
+69,Pickering Area #6,43.828407,-79.083788
+70,Pickering Area #7,43.839553,-79.096432
+71,Ajax Area #1,43.850505,-79.019404
+72,Ajax Area #2,43.847141,-79.012951
+73,Ajax Area #3,43.84967,-79.026164
+74,Ajax Area #4,43.851529,-79.015801
+75,Ajax Area #5,43.846118,-79.024166
+76,Ajax Area #6,43.858822,-79.017402
+77,Ajax Area #7,43.84991,-79.020048
+78,Whitby Area #1,43.891036,-78.948406
+79,Whitby Area #2,43.894509,-78.941134
+80,Whitby Area #3,43.892782,-78.948496
+81,Whitby Area #4,43.890236,-78.940278
+82,Whitby Area #5,43.892763,-78.934792
+83,Whitby Area #6,43.902854,-78.951483
+84,Whitby Area #7,43.892908,-78.93952
+85,Oshawa Area #1,43.892928,-78.873154
+86,Oshawa Area #2,43.904468,-78.864379
+87,Oshawa Area #3,43.897063,-78.860108
+88,Oshawa Area #4,43.90242,-78.871992
+89,Oshawa Area #5,43.891051,-78.867179
+90,Oshawa Area #6,43.896277,-78.86646
+91,Oshawa Area #7,43.901165,-78.862333
+92,Oakville Area #1,43.475247,-79.695732
+93,Oakville Area #2,43.465942,-79.690914
+94,Oakville Area #3,43.473287,-79.692727
+95,Oakville Area #4,43.462543,-79.688728
+96,Oakville Area #5,43.46625,-79.692129
+97,Oakville Area #6,43.463497,-79.679235
+98,Oakville Area #7,43.46659,-79.680473
+99,Burlington Area #1,43.326305,-79.807988
+100,Burlington Area #2,43.333489,-79.792279
