@@ -7,13 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
-/**
- * Main screen for SpotFinder:
- * - Displays all saved locations from SQLite in a RecyclerView
- * - Lets users search by address (partial match)
- * - Supports Add/Replace (upsert), Update, and Delete
- * - Opens MapActivity via Intent to show a marker for a location
- */
+
 class MainActivity : AppCompatActivity() {
 
     // Database helper (manages table + CRUD)

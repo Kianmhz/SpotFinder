@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">SpotFinder</string>
     <string name="google_maps_key">YOUR_API_KEY_HERE</string>
+    <string name="search_address">Search address</string>
+    <string name="find_and_map"><![CDATA[Find & Map]]></string>
+    <string name="refresh">Refresh</string>
+    <string name="add_replace_entry">Add / Replace Entry</string>
+    <string name="id">ID</string>
+    <string name="address">Address</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="add_replace">Add / Replace</string>
+    <string name="delete">Delete</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="update">Update</string>
+    <string name="lon">Lon</string>
+    <string name="lat">Lat</string>
 </resources>

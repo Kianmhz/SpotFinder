@@ -10,16 +10,7 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 
-/**
- * RecyclerView adapter for editing locations inline.
- * Uses plain findViewById (no ViewBinding) to match your requirements.
- *
- * Each row shows:
- *  - ID (TextView)
- *  - Address (EditText)
- *  - Lat, Lon (EditText)
- *  - Buttons: Update, Show on Map, Delete
- */
+
 class LocationAdapter(
     private val onUpdate: (Location) -> Unit,
     private val onDelete: (Location) -> Unit,

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/selectableItemBackground">
+
+    <TextView
+        android:id="@+id/tvId"
+        android:textStyle="bold"
+        android:text="@string/id"
+        android:textColor="?android:attr/textColorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etAddress"
+        android:hint="@string/address"
+        android:inputType="text"
+        android:importantForAutofill="no"
+        android:textColor="?android:attr/textColorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp">
+
+        <EditText
+            android:id="@+id/etLat"
+            android:hint="@string/lat"
+            android:inputType="numberDecimal"
+            android:importantForAutofill="no"
+            android:textColor="?android:attr/textColorPrimary"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:layout_weight="1" />
+
+        <EditText
+            android:id="@+id/etLon"
+            android:hint="@string/lon"
+            android:inputType="numberDecimal"
+            android:importantForAutofill="no"
+            android:textColor="?android:attr/textColorPrimary"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp">
+
+        <Button
+            android:id="@+id/btnUpdate"
+            android:text="@string/update"
+            style="?android:attr/buttonBarButtonStyle"
+            android:minHeight="48dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btnMap"
+            android:text="@string/show_on_map"
+            style="?android:attr/buttonBarButtonStyle"
+            android:minHeight="48dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="6dp" />
+
+        <Button
+            android:id="@+id/btnDelete"
+            android:text="@string/delete"
+            style="?android:attr/buttonBarButtonStyle"
+            android:minHeight="48dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="6dp" />
+    </LinearLayout>
+</LinearLayout>
